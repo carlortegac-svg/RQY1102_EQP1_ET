@@ -35,3 +35,5 @@ Carlos Ortega
 Patricio Villa
 
 Este documento resume la fase de diseño y arquitectura del proyecto Rentix (Avance: 40% del total planificado).
+Link figma proyecto
+https://www.figma.com/make/xRjZDBmAFLEzrtDHtukNDe/Rentix-Admin-Dashboard-Design?p=f&t=pCwUJgizbqNI4Qh8-0
